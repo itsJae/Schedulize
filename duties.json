@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Night Watch",
+    "shifts": ["22-24", "00-02", "02-04", "04-06"],
+    "soldiers_per_shift": 2
+  },
+  {
+    "name": "Guard Duty",
+    "shifts": ["06-09", "09-12", "12-15", "15-18", "18-21"],
+    "soldiers_per_shift": 2
+  },
+  {
+    "name": "CCTV",
+    "shifts": ["21-00", "00-03", "03-06"],
+    "soldiers_per_shift": 1
+  },
+  {
+    "name": "Dishwashing",
+    "shifts": ["After meals"],
+    "soldiers_per_shift": 2
+  }
+]
